@@ -3,7 +3,6 @@ import Link from 'next/link'
 export default function HomePage() {
   return (
     <main className="min-h-screen bg-black text-white">
-
       <section className="max-w-7xl mx-auto px-6 py-24">
 
         <div className="max-w-3xl space-y-8">
@@ -40,7 +39,6 @@ export default function HomePage() {
         </div>
 
       </section>
-
     </main>
   )
 }
